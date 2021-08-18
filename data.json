@@ -1,0 +1,1075 @@
+{
+	"data": [{
+			"producto": "Collar  Aguamarina",
+			"ref": "ref 001",
+			"precio": "20000$",
+			"descripcion": "Collar con forma de buho en hilo Terlenka color Aguamarina, piedreria fantasia fina ",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 001 Aguamarina.jpg"
+		},
+		{
+			"producto": "Collar  Beige",
+			"ref": "ref 001",
+			"precio": "20000$",
+			"descripcion": "Collar con forma de buho en hilo Terlenka color beige, piedreria fantasia fina ",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 001 Beige.jpg"
+		},
+		{
+			"producto": "Collar  Dorado",
+			"ref": "ref 001",
+			"precio": "20000$",
+			"descripcion": "Collar con forma de buho en hilo Terlenka color dorado, piedreria fantasia fina ",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 001 dorado.jpg"
+		},
+		{
+			"producto": "Collar  Matizado",
+			"ref": "ref 001",
+			"precio": "20000$",
+			"descripcion": "Collar con forma de buho en hilo Terlenka color matizado naranja, beige y verde, piedreria fantasia fina ",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 001 matizado.jpg"
+		},
+		{
+			"producto": "Collar  Verde",
+			"ref": "ref 001",
+			"precio": "20000$",
+			"descripcion": "Collar con forma de buho en hilo Terlenka color matizado verdes, piedreria fantasia fina ",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 001 verdematizado.jpg"
+		},
+		{
+			"producto": "Collar  Vinotinto",
+			"ref": "ref 001",
+			"precio": "20000$",
+			"descripcion": "Collar con forma de buho en hilo Terlenka color vinotinto, piedreria fantasia fina ",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 001 vinotinto.jpg"
+		},
+		{
+			"producto": "Collar  Dorado",
+			"ref": "ref 002",
+			"precio": "20000$",
+			"descripcion": "Collar con forma de mandala en hilo Terlenka color dorado, piedreria en fantasia fina ",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 002 dorado.jpg"
+		},
+		{
+			"producto": "Collar  Matizado ",
+			"ref": "ref 002",
+			"precio": "20000$",
+			"descripcion": "Collar con forma de mandala en hilo Terlenka color matizado naranja, beige y verde, piedreria fantasia fina ",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 002 matizado.jpg"
+		},
+		{
+			"producto": "Collar  Verde",
+			"ref": "ref 002",
+			"precio": "20000$",
+			"descripcion": "Collar con forma de mandala en hilo Terlenka color verde, piedreria en fantasia fina ",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 002 verde.jpg"
+		},
+		{
+			"producto": "Collar  Vinotinto",
+			"ref": "ref 002",
+			"precio": "20000$",
+			"descripcion": "Collar con forma de mandala en hilo Terlenka color vinotinto, piedreria en fantasia fina ",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 002 vinotinto.jpg"
+		},
+		{
+			"producto": "Collar  Azul matizado",
+			"ref": "ref 003",
+			"precio": "22000$",
+			"descripcion": "Collar en V hilo Terlenka  color azul matizado,Piedreria en fantasia",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 003 azulmatizado.jpg"
+		},
+		{
+			"producto": "Collar  Rojo",
+			"ref": "ref 003",
+			"precio": "22000$",
+			"descripcion": "Collar en V color rojo,Piedreria en fantasia",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 003 rojo.jpg"
+		},
+		{
+			"producto": "Collar  Rojo variado",
+			"ref": "ref 003",
+			"precio": "22000$",
+			"descripcion": "Collar en V color Beige con tonalidades de rojo en escala,Piedreria en fantasia",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 003 rojovariado.jpg"
+		},
+		{
+			"producto": "Collar  Rojo variado",
+			"ref": "ref 003",
+			"precio": "22000$",
+			"descripcion": "Collar en V color rosa matizado,Piedreria en fantasia",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 003 rosamatizado.jpg"
+		},
+		{
+			"producto": "Collar  Rosa variado",
+			"ref": "ref 003",
+			"precio": "22000$",
+			"descripcion": "Collar en V  hilo Terlenka  color cafe con tonalidades de rosas en escala,Piedreria en fantasia",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 003 rosavariado.jpg"
+		},
+		{
+			"producto": "Collar  Verde variado pequeño",
+			"ref": "ref 003",
+			"precio": "20000$",
+			"descripcion": "Collar en V hilo Terlenka  color Cafe con tonalidades de verdes oscuros en escala,Piedreria en fantasia",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 003 verdevariado pequeño.jpg"
+		},
+		{
+			"producto": "Collar  Verde variado ",
+			"ref": "ref 003",
+			"precio": "22000$",
+			"descripcion": "Collar en V color Beige con tonalidades de verdes claros en escala,Piedreria en fantasia",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 003 verdevariado.jpg"
+		},
+		{
+			"producto": "Collar  Vinotinto",
+			"ref": "ref 003",
+			"precio": "22000$",
+			"descripcion": "Collar en V hilo Terlenka  color Beige con tonalidades vinotinto en escala,Piedreria en fantasia",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 3 vinotinto.jpg"
+		},
+		{
+			"producto": "Collar  Azul matizado",
+			"ref": "ref 004",
+			"precio": "25000$",
+			"descripcion": "Collar en V hilo Terlenka  color Azul matizado, Piedra natural",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 004 azul matizado.jpg"
+		},
+		{
+			"producto": "Collar  Matizado",
+			"ref": "ref 004",
+			"precio": "25000$",
+			"descripcion": "Collar en V hilo Terlenka color matizado naranja, beige y verde, piedra natural",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 004 matizado.jpg"
+		},
+		{
+			"producto": "Collar  Rojo",
+			"ref": "ref 004",
+			"precio": "25000$",
+			"descripcion": "Collar en V hilo Terlenka color rojo, piedra natural",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 004 rojo.jpg"
+		},
+		{
+			"producto": "Collar  Verde matizado",
+			"ref": "ref 004",
+			"precio": "25000$",
+			"descripcion": "Collar en V hilo Terlenka color verde matizado, piedra natural",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 004 verde matizado.jpg"
+		},
+		{
+			"producto": "Collar  Blanco y negro",
+			"ref": "ref 005",
+			"precio": "30000$",
+			"descripcion": "Collar imperial hilo Terlenka en blanco y negro, piedra natural y fantasia",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 005 blancoynegro.jpg"
+		},
+		{
+			"producto": "Collar  Marron",
+			"ref": "ref 005",
+			"precio": "30000$",
+			"descripcion": "Collar imperial hilo Terlenka color marron, piedra natural y fantasia",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 005 marron.jpg"
+		},
+		{
+			"producto": "Collar  Blanco  ",
+			"ref": "ref 005",
+			"precio": "30000$",
+			"descripcion": "Collar imperial hilo Terlenka color blanco, piedra natural y fantasia",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 005 Blanco.jpg"
+		},
+		{
+			"producto": "Collar  Café",
+			"ref": "ref 006",
+			"precio": "35000$",
+			"descripcion": "Collar con Cuarzo en hilo Encerado, color café",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 006 cafe.jpg"
+		},
+		{
+			"producto": "Collar  Verde matizado",
+			"ref": "ref 007",
+			"precio": "30000$",
+			"descripcion": "Collar con cuarzo hilo Terlenka color verde matizado.",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 007 verde matizado.jpg"
+		},
+		{
+			"producto": "Collar  Café",
+			"ref": "ref 008",
+			"precio": "35000$",
+			"descripcion": "Collar con cuarzo hilo Encerado color café",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 008 cafe.jpg"
+		},
+		{
+			"producto": "Collar  Jamaiquino",
+			"ref": "ref 009",
+			"precio": "35000$",
+			"descripcion": "Collar bandeja  en hilo Terlenka tipo jamaiquino, con dije en acero",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 009 jamaiquino.jpg"
+		},
+		{
+			"producto": "Collar  Matizado",
+			"ref": "ref 010",
+			"precio": "15000$",
+			"descripcion": "Collar en gota, hilo Terlenka, color matizado beige, verde y naranja",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 10 matizado.jpg"
+		},
+		{
+			"producto": "Collar  Matizado",
+			"ref": "ref 011",
+			"precio": "20000$",
+			"descripcion": "Collar corona en hilo Terlenka, color matizado beige, verde y naranja, aro de acero y piedra fantasia",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 011 matizado.jpg"
+		},
+		{
+			"producto": "Collar  Café",
+			"ref": "ref 012",
+			"precio": "20000$",
+			"descripcion": "Collar reliquia, en hilo Terlenka tonos verdes, con piedra fantasia fina",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 012 marron.jpg"
+		},
+		{
+			"producto": "Collar  Verdes",
+			"ref": "ref 013",
+			"precio": "20000$",
+			"descripcion": "Collar diamante, en hilo Terlenka tonalidades verdes, con piedra fantasia fina",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Collar ref 013 verdes.jpg"
+		},
+		{
+			"producto": "Conjunto  dorado",
+			"ref": "ref 002",
+			"precio": "30000$",
+			"descripcion": "Collar con forma de mandala en hilo Terlenka color dorado, piedreria en fantasia fina con aretes pequeños en acero",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/conjunto ref 002 dorado.jpg"
+		},
+		{
+			"producto": "Conjunto  Jamaiquino",
+			"ref": "ref 002",
+			"precio": "30000$",
+			"descripcion": "Collar con forma de mandala en hilo Terlenka jamaiquino , piedreria en fantasia fina con aretes pequeños en acero",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Conjunto ref 002 jamaiquino.jpg"
+		},
+		{
+			"producto": "Conjunto  Matizado",
+			"ref": "ref 002",
+			"precio": "32000$",
+			"descripcion": "Collar con forma de mandala en hilo Terlenka matizado beige, verde y naranja , piedreria en fantasia fina con aretes grandes en acero",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Conjunto ref 002 matizado.jpg"
+		},
+		{
+			"producto": "Conjunto  Verde",
+			"ref": "ref 013",
+			"precio": "35000$",
+			"descripcion": "Collar diamante, en hilo Terlenka tonalidades verdes, con piedra fantasia fina y aretes en acero",
+			"categoria": "collares",
+			"img_portafolio": "assets/img/portfolio/collares/Conjunto ref 013 verdes.jpg"
+		},
+		{
+			"producto": "Llavero  Aguamarina",
+			"ref": "ref 001",
+			"precio": "15000$",
+			"descripcion": "Llavero en acero, tejido en forma de buho con hilo Terlenka #15 color Aguamarina y terminacion con piedra fantasia",
+			"categoria": "llaveros",
+			"img_portafolio": "assets/img/portfolio/llaveros/Llavero ref 001 Aguamarina.jpg"
+		},
+		{
+			"producto": "Llavero  Beige",
+			"ref": "ref 001",
+			"precio": "15000$",
+			"descripcion": "Llavero en acero, tejido en forma de buho con hilo Terlenka #15 color Beige y terminacion con piedra fantasia",
+			"categoria": "llaveros",
+			"img_portafolio": "assets/img/portfolio/llaveros/Llavero ref 001 Beige.jpg"
+		},
+		{
+			"producto": "Llavero  Lila",
+			"ref": "ref 001",
+			"precio": "15000$",
+			"descripcion": "Llavero en acero, tejido en forma de buho con hilo Terlenka #15 color Lila y terminacion con piedra fantasia",
+			"categoria": "llaveros",
+			"img_portafolio": "assets/img/portfolio/llaveros/Llavero ref 001 Lila.jpg"
+		},
+		{
+			"producto": "Llavero  Matizado",
+			"ref": "ref 001",
+			"precio": "15000$",
+			"descripcion": "Llavero en acero, tejido en forma de buho con hilo Terlenka #15 color Matizado y terminacion con piedra fantasia",
+			"categoria": "llaveros",
+			"img_portafolio": "assets/img/portfolio/llaveros/Llavero ref 001 Matizado.jpg"
+		},
+		{
+			"producto": "Llavero  Rojo",
+			"ref": "ref 001",
+			"precio": "15000$",
+			"descripcion": "Llavero en acero, tejido en forma de buho con hilo Terlenka #15 color Rojo y terminacion con piedra fantasia",
+			"categoria": "llaveros",
+			"img_portafolio": "assets/img/portfolio/llaveros/Llavero ref 001 Rojo.jpg"
+		},
+		{
+			"producto": "Llavero  Rosa",
+			"ref": "ref 001",
+			"precio": "15000$",
+			"descripcion": "Llavero en acero, tejido en forma de buho con hilo Terlenka #15 color Rosa y terminacion con piedra fantasia",
+			"categoria": "llaveros",
+			"img_portafolio": "assets/img/portfolio/llaveros/Llavero ref 001 Rosa.jpg"
+		},
+		{
+			"producto": "Llavero  Verde",
+			"ref": "ref 001",
+			"precio": "15000$",
+			"descripcion": "Llavero en acero, tejido en forma de buho con hilo Terlenka #15 color Aguamarin y terminacion con piedra fantasia",
+			"categoria": "llaveros",
+			"img_portafolio": "assets/img/portfolio/llaveros/Llavero ref 001 Verde.jpg"
+		},
+		{
+			"producto": "Llavero  Vinotinto",
+			"ref": "ref 001",
+			"precio": "15000$",
+			"descripcion": "Llavero en acero, tejido en forma de buho con hilo Terlenka #15 color Vinotinto y terminacion con piedra fantasia",
+			"categoria": "llaveros",
+			"img_portafolio": "assets/img/portfolio/llaveros/Llavero ref 001 Vinotinto.jpg"
+		},
+		{
+			"producto": "Pulsera  Azul",
+			"ref": "ref 001",
+			"precio": "25000$",
+			"descripcion": "Pulsera Romana en hilo Terlenza marron y azules, con pierda natural",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 001 azul.jpg"
+		},
+		{
+			"producto": "Pulsera  Verde",
+			"ref": "ref 001",
+			"precio": "25000$",
+			"descripcion": "Pulsera Romana en hilo Terlenza marron y verdes, con pierda natural",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 001 verde.jpg"
+		},
+		{
+			"producto": "Pulsera  Azulmarino",
+			"ref": "ref 002",
+			"precio": "25000$",
+			"descripcion": "Pulsera caracol con hilo terlenka azul y con hilo encerado marron, piedra natural",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 002 azulmarino.jpg"
+		},
+		{
+			"producto": "Pulsera  Café",
+			"ref": "ref 002",
+			"precio": "25000$",
+			"descripcion": "Pulsera caracol con hilo encerado marron y con hilo terlenka azul , piedra natural",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 002 cafe.jpg"
+		},
+		{
+			"producto": "Pulsera  Beige",
+			"ref": "ref 003",
+			"precio": "15000$",
+			"descripcion": "Pulsera Espiral con hilo Terlenka color beige y café",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 003 Beige.jpg"
+		},
+		{
+			"producto": "Pulsera  Verde",
+			"ref": "ref 003",
+			"precio": "15000$",
+			"descripcion": "Pulsera Espiral con hilo Terlenka en tonalidades verdes",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 003 verde.jpg"
+		},
+		{
+			"producto": "Pulsera  amarilla",
+			"ref": "ref 004",
+			"precio": "15000$",
+			"descripcion": "Pulsera en forma de flor hilo Terlenka amarillo, con piedra fantasia fina",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 004 amarilla.jpg"
+		},
+		{
+			"producto": "Pulsera  Matizado",
+			"ref": "ref 005",
+			"precio": "15000$",
+			"descripcion": "Pulsera en forma de diamante con hilo Terlenka matizado beige, verde y naranja, con chaquiras",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 005 matizado.jpg"
+		},
+		{
+			"producto": "Pulsera  Rojos",
+			"ref": "ref 006",
+			"precio": "15000$",
+			"descripcion": "Pulsera con rombos en hilo Terlenka tonalidades rojos, con piedras fantasia",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 006 rojos.jpg"
+		},
+		{
+			"producto": "Pulsera  Verdes",
+			"ref": "ref 006",
+			"precio": "15000$",
+			"descripcion": "Pulsera con rombos en hilo Terlenka tonalidades verdes, con piedras fantasia",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 006 Verde.jpg"
+		},
+		{
+			"producto": "Pulsera  Arbol de vida",
+			"ref": "ref 007",
+			"precio": "15000$",
+			"descripcion": "Pulsera forma de rosa en hilo cordon celular rojo con dije de Arbol de vida en oro golfi",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 007 Arbol de vida.jpg"
+		},
+		{
+			"producto": "Pulsera  Elefante",
+			"ref": "ref 007",
+			"precio": "15000$",
+			"descripcion": "Pulsera forma de rosa en hilo cordon celular rojo con dije de elefante en oro golfi",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 007 elefante.jpg"
+		},
+		{
+			"producto": "Pulsera  Estrella",
+			"ref": "ref 007",
+			"precio": "15000$",
+			"descripcion": "Pulsera forma de rosa en hilo cordon celular rojo con dije de Estrella en oro golfi",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 007 Estrella.jpg"
+		},
+		{
+			"producto": "Pulsera  Mano",
+			"ref": "ref 007",
+			"precio": "15000$",
+			"descripcion": "Pulsera forma de rosa en hilo cordon celular rojo con dije de Mano en oro golfi",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 007 mano.jpg"
+		},
+		{
+			"producto": "Pulsera  Religiosa",
+			"ref": "ref 007",
+			"precio": "15000$",
+			"descripcion": "Pulsera forma de rosa en hilo cordon celular rojo con dije Religioso en oro golfi",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 007 religiosa.jpg"
+		},
+		{
+			"producto": "Pulsera  Aguamarina",
+			"ref": "ref 008",
+			"precio": "15000$",
+			"descripcion": "Pulsera gruera con hilo terlenka colores variados marinos",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 8 aguamarina.jpg"
+		},
+		{
+			"producto": "Pulsera  Beige",
+			"ref": "ref 009",
+			"precio": "25000$",
+			"descripcion": "Pulsera gruera con hilo terlenka color beige y piedra fantasia",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 009 Beige.jpg"
+		},
+		{
+			"producto": "Pulsera  Multicolor 1",
+			"ref": "ref 009",
+			"precio": "25000$",
+			"descripcion": "Pulsera gruera con hilo terlenka multicolor",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 009 multicolor 1.jpg"
+		},
+		{
+			"producto": "Pulsera  tricolor",
+			"ref": "ref 009",
+			"precio": "25000$",
+			"descripcion": "Pulsera gruera con hilo terlenka colores bandera de Colombia",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 009 tricolor.jpg"
+		},
+		{
+			"producto": "Pulsera  Vinotinto",
+			"ref": "ref 010",
+			"precio": "20000$",
+			"descripcion": "Pulsera corazon gruera con hilo terlenka vinotinto",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 010 vinotinto.jpg"
+		},
+		{
+			"producto": "Pulsera  verde matizado",
+			"ref": "ref 011",
+			"precio": "20000$",
+			"descripcion": "Pulsera con piedra natural, color verde matizado",
+			"categoria": "pulseras",
+			"img_portafolio": "assets/img/portfolio/pulseras/Pulsera ref 011 verde matizado.jpg"
+		},
+		{
+			"producto": "Arete  verde matizado",
+			"ref": "ref 001",
+			"precio": "15000$",
+			"descripcion": "Arete en forma de buho, en hilo terlenka verde matizado, en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 001 verde matizado.jpg"
+		},
+		{
+			"producto": "Arete  verde-rojo",
+			"ref": "ref 001",
+			"precio": "15000$",
+			"descripcion": "Arete en forma de buho, en hilo terlenka verde y rojo, topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 001 verderojo.jpg"
+		},
+		{
+			"producto": "Arete  rojo-azul",
+			"ref": "ref 002",
+			"precio": "15000$",
+			"descripcion": "Arete en forma de diamante, en hilo terlenka  rojo, verde y azul, anzuelo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 002 rojoazul.jpg"
+		},
+		{
+			"producto": "Arete  rojo",
+			"ref": "ref 003",
+			"precio": "20000$",
+			"descripcion": "Arete griego en hilo terlenka color  rojo, amarillo y vinotinto con piedra natural y acero en topo",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 003 rojo.jpg"
+		},
+		{
+			"producto": "Arete  verde",
+			"ref": "ref 003",
+			"precio": "20000$",
+			"descripcion": "Arete griego en hilo terlenka colores verdes, con piedra natural y acero en topo",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 003 verdematizado.jpg"
+		},
+		{
+			"producto": "Arete  Aguamarina",
+			"ref": "ref 004",
+			"precio": "20000$",
+			"descripcion": "Arete en forma de mandala, hilo terlenka colores marinos con piedra fantasia fina y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 004 aguamarina.jpg"
+		},
+		{
+			"producto": "Arete  Arcoiris",
+			"ref": "ref 004",
+			"precio": "20000$",
+			"descripcion": "Arete en forma de mandala, hilo terlenka colores del arcoiris con piedra fantasia fina y topo en acero, terminacion con borla pequeña negra",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 004 arcoiris.jpg"
+		},
+		{
+			"producto": "Arete  Jamaiquino",
+			"ref": "ref 004",
+			"precio": "20000$",
+			"descripcion": "Arete en forma de mandala, hilo terlenka colores Jamaiquinos con piedra fantasia fina y topo en acero, terminacion con pluma negra",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 004 jamaiquino.jpg"
+		},
+		{
+			"producto": "Arete  Marron",
+			"ref": "ref 004",
+			"precio": "20000$",
+			"descripcion": "Arete en forma de mandala, hilo terlenka colores marron con piedra fantasia fina y topo en acero,terminacion con borla verde pequeña",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 004 marron.jpg"
+		},
+		{
+			"producto": "Arete  Matizado",
+			"ref": "ref 004",
+			"precio": "20000$",
+			"descripcion": "Arete en forma de mandala, hilo terlenka color matizado beige, verde y naranja, con piedra fantasia fina y topo en acero, referencia grande sin terminacion",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 004 matizado grande.jpg"
+		},
+		{
+			"producto": "Arete  Vinotinto",
+			"ref": "ref 004",
+			"precio": "20000$",
+			"descripcion": "Arete en forma de mandala, hilo terlenka color vinotinto con piedra fantasia fina y topo en acero, terminacion con pluma fucsia",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 004 vinotinto.jpg"
+		},
+		{
+			"producto": "Arete  Amarillo",
+			"ref": "ref 004",
+			"precio": "20000$",
+			"descripcion": "Arete en forma de mandala, hilo terlenka color amarillo con piedra fantasia fina y topo en acero, terminacion con pluma multicolor",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 4 amarillo.jpg"
+		},
+		{
+			"producto": "Arete  Arcoiris",
+			"ref": "ref 005",
+			"precio": "20000$",
+			"descripcion": "Arete abanico con hilo terlenka colores de arcoiris, piedra fantasia fina y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 005 arcoiris.jpg"
+		},
+		{
+			"producto": "Arete  Azul variado",
+			"ref": "ref 005",
+			"precio": "20000$",
+			"descripcion": "Arete abanico con hilo terlenka colores azules, piedra fantasia fina y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 005 azulmatizado.jpg"
+		},
+		{
+			"producto": "Arete  Dorado-negro",
+			"ref": "ref 005",
+			"precio": "20000$",
+			"descripcion": "Arete abanico con hilo terlenka colores negro y dorado, piedra fantasia fina y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 005 dorado.jpg"
+		},
+		{
+			"producto": "Arete  Multicolor",
+			"ref": "ref 005",
+			"precio": "20000$",
+			"descripcion": "Arete abanico con hilo terlenka colores blanco, verde y rojo, piedra fantasia fina y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 005 multicolor.jpg"
+		},
+		{
+			"producto": "Arete  Rosa matizado",
+			"ref": "ref 005",
+			"precio": "20000$",
+			"descripcion": "Arete abanico con hilo terlenka color rosa matizado, piedra fantasia fina y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 005 Rosa matizado.jpg"
+		},
+		{
+			"producto": "Arete  Tricolor",
+			"ref": "ref 005",
+			"precio": "20000$",
+			"descripcion": "Arete abanico con hilo terlenka colores bandera, piedra fantasia fina y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 005 Tricolor.jpg"
+		},
+		{
+			"producto": "Arete  verde matizado",
+			"ref": "ref 005",
+			"precio": "20000$",
+			"descripcion": "Arete abanico con hilo terlenka colore verde matizado, piedra fantasia fina y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 005 verdematizado.jpg"
+		},
+		{
+			"producto": "Arete  Azul",
+			"ref": "ref 006",
+			"precio": "15000$",
+			"descripcion": "Arete en rombo con hilo terlenka colores azules, piedra fantasia fina y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 006 azul.jpg"
+		},
+		{
+			"producto": "Arete  Beige",
+			"ref": "ref 006",
+			"precio": "15000$",
+			"descripcion": "Arete en rombo con hilo terlenka colores beiges, piedra fantasia fina y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 006 Beige.jpg"
+		},
+		{
+			"producto": "Arete  Jamaiquino",
+			"ref": "ref 006",
+			"precio": "15000$",
+			"descripcion": "Arete en rombo con hilo terlenka colores Jamaiquinos, piedra fantasia fina y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 006 Jamaiquino.jpg"
+		},
+		{
+			"producto": "Arete  Verde",
+			"ref": "ref 006",
+			"precio": "15000$",
+			"descripcion": "Arete en rombo con hilo terlenka colores verdes, piedra fantasia fina y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 006 verde.jpg"
+		},
+		{
+			"producto": "Arete  Azul",
+			"ref": "ref 007",
+			"precio": "12000$",
+			"descripcion": "Arete Hexagono con hilo terlenka color azul y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 007 azul.jpg"
+		},
+		{
+			"producto": "Arete  Beige",
+			"ref": "ref 007",
+			"precio": "12000$",
+			"descripcion": "Arete Hexagono con hilo terlenka color beige y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 007 Beige.jpg"
+		},
+		{
+			"producto": "Arete  Jamaiquino",
+			"ref": "ref 007",
+			"precio": "12000$",
+			"descripcion": "Arete Hexagono con hilo terlenka color Jamaiquino y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 007 jamaiquino.jpg"
+		},
+		{
+			"producto": "Arete  Morado",
+			"ref": "ref 007",
+			"precio": "12000$",
+			"descripcion": "Arete Hexagono con hilo terlenka color Morado y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 007 morado.jpg"
+		},
+		{
+			"producto": "Arete  Naranja",
+			"ref": "ref 007",
+			"precio": "12000$",
+			"descripcion": "Arete Hexagono con hilo terlenka color Naranja y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 007 naranja.jpg"
+		},
+		{
+			"producto": "Arete  Negro",
+			"ref": "ref 007",
+			"precio": "12000$",
+			"descripcion": "Arete Hexagono con hilo terlenka color Negro y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 007 negro.jpg"
+		},
+		{
+			"producto": "Arete  Rojo",
+			"ref": "ref 007",
+			"precio": "12000$",
+			"descripcion": "Arete Hexagono con hilo terlenka color Rojo y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 007 rojo.jpg"
+		},
+		{
+			"producto": "Arete  Verde",
+			"ref": "ref 007",
+			"precio": "12000$",
+			"descripcion": "Arete Hexagono con hilo terlenka color verde y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 007 verde.jpg"
+		},
+		{
+			"producto": "Arete  Blanco",
+			"ref": "ref 008",
+			"precio": "15000$",
+			"descripcion": "Arete en forma de olas con hilo terlenka color blanco, piedra fantasia fina y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 008 blanco.jpg"
+		},
+		{
+			"producto": "Arete  Negro",
+			"ref": "ref 008",
+			"precio": "15000$",
+			"descripcion": "Arete en forma de olas con hilo terlenka color negro, piedra fantasia fina y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 008 negro.jpg"
+		},
+		{
+			"producto": "Arete  Verde matizado",
+			"ref": "ref 008",
+			"precio": "15000$",
+			"descripcion": "Arete en forma de olas con hilo terlenka colores verdes, piedra fantasia fina y topo en acero",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 008 verde matizado.jpg"
+		},
+		{
+			"producto": "Arete  Amarillo",
+			"ref": "ref 009",
+			"precio": "20000$",
+			"descripcion": "Arete en forma de lagrima con hilo terlenka color amarillo, con chaquira y topo en acero, terminacion con pluma multicolor",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 009 amarillo.jpg"
+		},
+		{
+			"producto": "Arete  Verde",
+			"ref": "ref 009",
+			"precio": "20000$",
+			"descripcion": "Arete en forma de lagrima con hilo terlenka color verde, con chaquira y topo en acero, terminacion con pluma multicolor",
+			"categoria": "aretes",
+			"img_portafolio": "assets/img/portfolio/aretes/Arete ref 009 verde.jpg"
+		},
+		{
+			"producto": "Espejo  Blanco",
+			"ref": "25 cm",
+			"precio": "35000$",
+			"descripcion": "Espejo con base de madera, cuerda trenzada de algodón color natural",
+			"categoria": "espejos",
+			"img_portafolio": "assets/img/portfolio/espejos/Espejo 25 cm Blanco.png"
+		},
+		{
+			"producto": "Espejo  Rosa",
+			"ref": "25 cm",
+			"precio": "35000$",
+			"descripcion": "Espejo con base de madera, cuerda Hilaza trenzada de algodón color Rosa",
+			"categoria": "espejos",
+			"img_portafolio": "assets/img/portfolio/espejos/Espejo 25 cm Rosa.jpg"
+		},
+		{
+			"producto": "Espejo  Blanco",
+			"ref": "30 cm",
+			"precio": "50000$",
+			"descripcion": "Espejo con base de madera, cuerda trenzada de algodón color natural",
+			"categoria": "espejos",
+			"img_portafolio": "assets/img/portfolio/espejos/Espejo 30 cm Blanco.jpg"
+		},
+		{
+			"producto": "Espejo  Gris",
+			"ref": "30 cm",
+			"precio": "50000$",
+			"descripcion": "Espejo con base de madera, cuerda trenzada de algodón color gris",
+			"categoria": "espejos",
+			"img_portafolio": "assets/img/portfolio/espejos/Espejo 30 cm Gris.png"
+		},
+		{
+			"producto": "Espejo  Ocre",
+			"ref": "30 cm",
+			"precio": "50000$",
+			"descripcion": "Espejo con base de madera, cuerda trenzada de algodón color Ocre",
+			"categoria": "espejos",
+			"img_portafolio": "assets/img/portfolio/espejos/Espejo 30 cm Ocre.jpg"
+		},
+		{
+			"producto": "Espejo  Rosa",
+			"ref": "30 cm",
+			"precio": "50000$",
+			"descripcion": "Espejo con base de madera, cuerda trenzada de algodón color Ocre",
+			"categoria": "espejos",
+			"img_portafolio": "assets/img/portfolio/espejos/Espejo 30 cm Rosa.jpg"
+		},
+		{
+			"producto": "Espejo  Blanco",
+			"ref": "40 cm",
+			"precio": "70000$",
+			"descripcion": "Espejo con base de madera, cuerda trenzada de algodón color blanco",
+			"categoria": "espejos",
+			"img_portafolio": "assets/img/portfolio/espejos/Espejo 40 cm  blanco.jpg"
+		},
+		{
+			"producto": "Espejo  Azul",
+			"ref": "40 cm",
+			"precio": "70000$",
+			"descripcion": "Espejo con base de madera, cuerda trenzada de algodón color azul",
+			"categoria": "espejos",
+			"img_portafolio": "assets/img/portfolio/espejos/Espejo 40 cm Azul naval.png"
+		},
+		{
+			"producto": "Espejo  Mostaza ",
+			"ref": "40 cm",
+			"precio": "90000$",
+			"descripcion": "Espejo con base de madera, cuerda trenzada de algodón color mostaza terminacion con hojas ",
+			"categoria": "espejos",
+			"img_portafolio": "assets/img/portfolio/espejos/Espejo 40 cm Moztaza.jpg"
+		},
+		{
+			"producto": "Espejo  Negro",
+			"ref": "40 cm",
+			"precio": "70000$",
+			"descripcion": "Espejo con base de madera, cuerda trenzada de algodón color negro",
+			"categoria": "espejos",
+			"img_portafolio": "assets/img/portfolio/espejos/Espejo 40 cm Negro.jpg"
+		},
+		{
+			"producto": "Espejo  Mostaza",
+			"ref": "50 cm",
+			"precio": "90000$",
+			"descripcion": "Espejo con base de madera, cuerda trenzada de algodón color mostaza  ",
+			"categoria": "espejos",
+			"img_portafolio": "assets/img/portfolio/espejos/Espejo 50 cm Mostaza.jpg"
+		},
+		{
+			"producto": "Almohada  50x50 Blanco",
+			"ref": "ref 001",
+			"precio": "60000$",
+			"descripcion": "Almohada 50x 50, cojin algodón siliconado, tejido con hilo trenzado de algodón color natural",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Almohada ref 001 50x50 Blanco.jpg"
+		},
+		{
+			"producto": "Almohada  50x50 Blanco",
+			"ref": "ref 002",
+			"precio": "60000$",
+			"descripcion": "Almohada 50x 50, cojin algodón siliconado, tejido con hilo trenzado de algodón color natural",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Almohada ref 002 Blanco.jpg"
+		},
+		{
+			"producto": "Almohada  50x50 Blanco",
+			"ref": "ref 003",
+			"precio": "50000$",
+			"descripcion": "Almohada 50x 50, cojin algodón siliconado, tejido medio con hilo trenzado de algodón color natural",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Almohada ref 003 50x50 Blanco.jpg"
+		},
+		{
+			"producto": "Almohada  50x50 Rosa",
+			"ref": "ref 004",
+			"precio": "60000$",
+			"descripcion": "Almohada 50x 50, cojin algodón siliconado, tejido con hilo trenzado de algodón color Rosa",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Almohada ref 004 50x50 Rosa.jpg"
+		},
+		{
+			"producto": "Almohada  50x50 Azul",
+			"ref": "ref 005",
+			"precio": "60000$",
+			"descripcion": "Almohada 50x 50, cojin algodón siliconado, tejido con hilo trenzado de algodón color Azul",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Almohada ref 005 50x50 Azul.jpg"
+		},
+		{
+			"producto": "Arbol de la vida  Beige",
+			"ref": "ref 001",
+			"precio": "60000$",
+			"descripcion": "Arbol de la vida 50 cm, con base de madera, tejido en hilo Terlenka # 15 Beige y terlenka # 12 colores varios, con terminacion en piedra natural",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Arbol de la vida ref 001 Beige.jpg"
+		},
+		{
+			"producto": "Buho  Vinotinto",
+			"ref": "ref 001",
+			"precio": "35000$",
+			"descripcion": "Buho 40 cm , tejido en hilo trenzado color vinotinto, teminaciones en madera",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Buho ref 001 Vinotinto.jpg"
+		},
+		{
+			"producto": "Buho  Blanco",
+			"ref": "ref 002",
+			"precio": "50000$",
+			"descripcion": "Buho 50 cm, tejido en hilo trenzado de algodón  color natural, terminaciones en madera",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Buho ref 002 Blanco.jpg"
+		},
+		{
+			"producto": "Centro de mesa  Blanco",
+			"ref": "ref 001",
+			"precio": "50000$",
+			"descripcion": "Centro de mesa 45 cm , tejido con hilo trenzado de algodón color natural",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Centro de mesa ref 001 Blanco.jpg"
+		},
+		{
+			"producto": "Cortinero  Blanco",
+			"ref": "ref 001",
+			"precio": "15000$",
+			"descripcion": "Cortinero 45 cm, tejido con hilo trenzado de algodón color natural con acabados en madera",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Cortinero ref 001 Blanco.jpg"
+		},
+		{
+			"producto": "Cortinero  Blanco",
+			"ref": "ref 002",
+			"precio": "15000$",
+			"descripcion": "Cortinero 35 cm, tejido con hilo trenzado de algodón color natural con acabados en madera",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Cortinero ref 002 Blanco.jpg"
+		},
+		{
+			"producto": "Gato  Gris",
+			"ref": "ref 001",
+			"precio": "35000$",
+			"descripcion": "Gato 50 cm con base de madera, tejido en hilo trenzado de algodón color gris, con terminaciones en madera",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Gato ref 001 Gris.jpg"
+		},
+		{
+			"producto": "Macetero  Blanco",
+			"ref": "ref 001",
+			"precio": "45000$",
+			"descripcion": "Macetero 50 x 50 doble, tejido en hilo trenzado de algodón color natural, con base de madera y terminacion con pluma",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Macetero ref 001 Blanco.jpg"
+		},
+		{
+			"producto": "Macetero  Blanco",
+			"ref": "ref 002",
+			"precio": "25000$",
+			"descripcion": "Macetero individual 70 cm largo, tejido en hilo trenzado color natural con base de madera",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Macetero ref 002 Blanco.jpg"
+		},
+		{
+			"producto": "Macetero  Blanco",
+			"ref": "ref 003",
+			"precio": "55000$",
+			"descripcion": "Macetero triple 50x50, tejido en hilo trenzado color natural con base de madera",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Macetero ref 003 Blanco.jpg"
+		},
+		{
+			"producto": "Mini Macetero  Blanco",
+			"ref": "ref 001",
+			"precio": "15000$",
+			"descripcion": "Mini macetero 40 cm largo, tejido en hilo trenzado color natural con base de madera",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Mini macetero ref 001 Blanco.jpg"
+		},
+		{
+			"producto": "Tapiz mandala ",
+			"ref": "ref 001",
+			"precio": "25000$",
+			"descripcion": "Tapiz 30 cm decorativo de pared, con base de madera, tejido con hilo trenzado mostaza y vinotinto",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Tapiz mandala ref 001.jpg"
+		},
+		{
+			"producto": "Tapiz mandala ",
+			"ref": "ref 002",
+			"precio": "25000$",
+			"descripcion": "Tapiz 30 cm decorativo de pared, con base de madera, tejido con hilo trenzado mostaza, verde militar y azul naval",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Tapiz mandala ref 002.jpg"
+		},
+		{
+			"producto": "Tapiz mandala ",
+			"ref": "ref 003",
+			"precio": "25000$",
+			"descripcion": "Tapiz 30 cm decorativo de pared, con base de madera, tejido con hilo trenzado color natural",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Tapiz mandala ref 003.jpg"
+		},
+		{
+			"producto": "Tapiz mandala ",
+			"ref": "ref 004",
+			"precio": "35000$",
+			"descripcion": "Tapiz 60 cm decorativo de pared, con base de madera, tejido con hilo trenzado color verde militar y terminaciones en madera",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Tapiz mandala ref 004.jpg"
+		},
+		{
+			"producto": "Tapiz pequeño  Blanco",
+			"ref": "ref 001",
+			"precio": "30000$",
+			"descripcion": "Tapiz 40x 50 en secuencia de estrella, base de madera con tejido en hilo de algodón color natural",
+			"categoria": "hogar",
+			"img_portafolio": "assets/img/portfolio/hogar/Tapiz pequeño ref 001 Blanco.jpg"
+		}
+	]
+}
